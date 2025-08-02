@@ -106,19 +106,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
----
-
-## 🖼️ Sample Screenshot
-
-![App Screenshot](link_to_screenshot_if_available.png)
-
----
-
-## 🌐 Live App (Optional)
-
-If deployed via [Streamlit Cloud](https://streamlit.io/cloud), include your link here:
-
-👉 [Live Demo](https://your-username.streamlit.app/)
 
 ---
 
@@ -152,6 +139,6 @@ All required libraries are listed in `requirements.txt`.
 
 ## 🧠 Author
 
-**Afzal Shah** — CS Student & ML Intern @ UET Lahore
+**Afzal Shah** — CS Student & AI Intern @ NCAI (UET Lahore)
 
 ---
